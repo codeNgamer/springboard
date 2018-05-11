@@ -3,7 +3,11 @@ ___
 
 Docker build container based on CentOs 7.4
 This container contains the following out of the box
-- Nodejs 10
+- Nodejs 8 
+- Python 2.7
+- Pip
+- Phantomjs 2.1.1
+- devtoolset-7
 - build tools for npm native add-ons
 - docker
 - docker-compose
