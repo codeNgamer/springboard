@@ -1,7 +1,7 @@
 # Springboard 
 ___
 
-Docker build container based on CentOs 7.4
+Docker base build image based on CentOs 7.4
 This container contains the following out of the box
 - Nodejs 8 
 - Python 2.7
